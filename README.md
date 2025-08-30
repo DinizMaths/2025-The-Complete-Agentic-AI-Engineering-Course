@@ -1,1 +1,3 @@
-# 2025-The-Complete-Agentic-AI-Engineering-Course
+# [2025] The Complete Agentic AI Engineering Course
+
+This repository ...
